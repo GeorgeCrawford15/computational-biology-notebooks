@@ -1,0 +1,56 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment folders (Mac, Windows, and common tools)
+env/
+venv/
+.venv/
+ENV/
+env.bak/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store         # Mac
+Thumbs.db         # Windows
+
+# Python packaging leftovers
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Logs, database, and runtime files
+*.log
+*.pid
+*.sqlite3
+
+# Jupyter outputs and temporary notebooks
+*.nbconvert.ipynb
+*.out.ipynb
+*.bak
+
+# Editor swap files
+*.swp
+*.tmp
+
+# Secrets / environment
+.env
+*.env
+
+# Optional: ignore large data formats or compressed archives, if you're not using them
+#*.zip
+#*.tar.gz
+#*.h5
+
+# Ignore test cache if you're running pytest or similar tools
+.pytest_cache/
+
+# If you use mypy
+.mypy_cache/
