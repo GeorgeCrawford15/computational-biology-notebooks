@@ -17,7 +17,7 @@ env.bak/
 .vscode/
 
 # OS-specific files
-.DS_Store         # Mac
+**/.DS_Store         # Mac
 Thumbs.db         # Windows
 
 # Python packaging leftovers
