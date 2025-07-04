@@ -16,6 +16,11 @@ venv/
 ENV/
 env.bak/
 
+# Large data
+data/sequences/*.fa.gz
+data/sequences/*.fa
+
+
 # VS Code settings
 .vscode/
 
